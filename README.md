@@ -36,7 +36,7 @@
 
 ### 1. Клонирование репозитория
 ```bash
-git clone -b develop https://github.com/Giggichk/TubeFetch-.git
+git clone -b develop https://github.com/Giggichk/TubeFetch.git
 cd TubeFetch-
 ```
 
