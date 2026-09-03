@@ -81,6 +81,11 @@ python downloads.py
 
 ---
 
+## 🖥️ Будущее GUI
+<img width="1920" height="1080" alt="TubeFetch-GUI" src="https://github.com/user-attachments/assets/e4559d55-eafd-4474-96b6-ac0ec2781631" />
+
+---
+
 ## 📄 Лицензия
 
 Проект распространяется под лицензией **MIT**. Подробности в файле `LICENSE`.
